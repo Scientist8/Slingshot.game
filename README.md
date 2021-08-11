@@ -1,5 +1,5 @@
 # Slingshot.game
- A slingshot mechanic game where you shoot a bald man.
+ A slingshot mechanic game where you drag and shoot a bald man.
  
  Hello everyone, I hope you are doing well.
  
@@ -7,7 +7,7 @@
  
  It is the second case study the game company I applied for internship sent.
  
- Tried to make a slingshot mechanic where you shoot a character to a target.
+ Tried to make a slingshot mechanic where you tap, drag and release to shoot a character to a target.
  
  Used line renderer for sling.
  
